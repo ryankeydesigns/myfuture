@@ -1,0 +1,2 @@
+# myfuture
+GitHub Pages
