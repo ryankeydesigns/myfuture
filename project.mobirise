@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "New site 1",
+    "name": "My Future ",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -51,6 +51,16 @@
         "url": "https://fonts.googleapis.com/css?family=Michroma:400"
       }
     ],
+    "favicon": "@PROJECT_PATH@/assets/images/logo-alien.jpg",
+    "mbrsiteDomain": "ab852ounac",
+    "imageResize": false,
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 11,
     "versionPublish": "5.9.13"
   },
